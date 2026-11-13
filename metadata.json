@@ -1,0 +1,6 @@
+{
+  "name": "Punto Farma PY - Cadena de Valor y Trazabilidad Operativa",
+  "description": "Presentación ejecutiva interactiva offline para Organización 2 (Grupo Nro 7) sobre la Cadena de Valor, Intralogística en CD Ñemby y Doble Matriz de Alcance de Punto Farma PY.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
